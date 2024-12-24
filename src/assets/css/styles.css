@@ -1,0 +1,12 @@
+/* src/assets/css/styles.css */
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.page-bg {
+  background-image: url("/assets/images/bg-10.png");
+}
+
+.dark .page-bg {
+  background-image: url("/assets/images/bg-10-dark.png");
+}
